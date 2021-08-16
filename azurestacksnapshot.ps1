@@ -1,7 +1,7 @@
 # Connect to Azure StackHub
 
-Add-AzEnvironment -Name "yevgen.golovashev@kyivstarsandbox.onmicrosoft.com" -ArmEndpoint "https://management.kyiv.azure.kyivstar.ua"
-Connect-AzAccount -EnvironmentName "yevgen.golovashev@kyivstarsandbox.onmicrosoft.com"
+# Add-AzEnvironment -Name "user@tenant.onmicrosoft.com" -ArmEndpoint "https://management.kyiv.azure.kyivstar.ua"
+# Connect-AzAccount -EnvironmentName "user@tenant.onmicrosoft.com"
 
 #   Tags varibles 
 
